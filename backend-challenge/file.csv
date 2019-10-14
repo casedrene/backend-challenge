@@ -1,0 +1,12 @@
+displayName,reviewBody,createdDate,emailAddress,productHandle,productId,imageUrls,isApproved,rating,reviewReply,replyDateCreated,sku,title,videoUrls,isVerifiedBuyer,variantId,countryCode
+John Smith,Terrible product. Do not buy!,26/08/2019 05:52,john@exmaple.com,,8604833345,https://placekitten.com/200/400,TRUE,1,,,,Terrible Product,,verified,,
+Jane Smith,OK quality but not what I was expecting.,26/06/2018 06:52,jane@exmaple.com,,8422445173,https://placekitten.com/200/300,FALSE,2,,,,Just be careful,,not-verified,,
+Christine Riley,"Love this, but too small",02/11/2017 21:52,christine@exmaple.com,,5077130039,https://placekitten.com/250/350,FALSE,4,,,,I'm so upset,,verified,,
+Mary Adkins,Great fit and love the colour!,01/06/2019 09:14,mary@exmaple.com,blue-tshirt,,https://placekitten.com/200/300,TRUE,5,,,,Amazing,,verified,,
+Chris Matthews,I wish I could wear this everyday! Perfect! 😁,28/06/2018 10:57,chris222@exmaple.com,purple-tshirt,,https://placekitten.com/500/300,TRUE,5,,,,"So good, never want to take it off",,not-verified,,
+Matt Hicks,Size is great but the colour is not what I was hoping for.,21/07/2019 08:10,matt@exmaple.com,red-shorts,,https://placekitten.com/200/300,TRUE,4,,,,check you colours!,,not-verified,,
+John Smith,This is such a great product. Definitely recommend!,26/08/2019 05:52,john@exmaple.com,,8604833345,https://placekitten.com/200/300,TRUE,5,,,,Definitely Recommend,,TRUE,,es
+Jane Smith,I‘d definitely buy this again!,26/06/2018 06:52,jane@exmaple.com,,5077130039,https://placekitten.com/200/300,FALSE,5,,,,Absolutely Great!,,TRUE,,au
+Christine Riley,"ok, not a huge fan.",02/11/2017 21:52,christine@exmaple.com,,5077130039,https://placekitten.com/200/300,TRUE,2,,,,OK…,,TRUE,,au
+Mary Adkins,"Lovely deep blue, I love it!",01/06/2019 09:14,mary@exmaple.com,blue-tshirt,,https://placekitten.com/200/300,TRUE,5,Thanks for your great review!,26/06/2019 07:52,,Love this!,,TRUE,,fr
+Chris Matthews,Blue t-shirts are good,28/06/2018 10:57,chris222@exmaple.com,blue-tshirt,,https://placekitten.com/200/300,FALSE,4,,,BLT,Good stuff,,TRUE,,au

@@ -1,0 +1,49 @@
+[
+    {
+        "name": "Blue T-Shirt",
+        "productId": "8604833345",
+        "image": "https://placekitten.com/200/300",
+        "variants": [
+            {
+                "varirantId": "67538293",
+                "sku": "BLUTS-L"
+            },
+            {
+                "varirantId": "64739271",
+                "sku": "BLUTS-XL"
+            },
+            {
+                "varirantId": "53264512",
+                "sku": "BLUTS"
+            }
+        ],
+        "handle": "blue-tshirt",
+        "price:": 120.99
+    },
+    {
+        "name": "Purple T-Shirt",
+        "productId": "8422445173",
+        "image": "https://placekitten.com/200/300",
+        "variants": [
+            {
+                "varirantId": "26497695",
+                "sku": "PURTS"
+            }
+        ],
+        "handle": "purple-tshirt",
+        "price:": 450.97
+    },
+    {
+        "name": "Red Shorts",
+        "productId": "5077130039",
+        "image": "https://placekitten.com/200/300",
+        "variants": [
+            {
+                "varirantId": "65326415",
+                "sku": "RESHO"
+            }
+        ],
+        "handle": "red-shorts",
+        "price:": 65.00
+    }
+]

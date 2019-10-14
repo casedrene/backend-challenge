@@ -1,0 +1,11 @@
+﻿reviewer_name,review_body,date,reviewer_email,productHandle,productId,imageUrls,isApproved,review_score,review_reply,review_reply_date,sku,title,reviewer_verified_status
+John Smith,Terrible product. Do not buy!,26/08/2019 05:52,john@exmaple.com,,8604833345,https://placekitten.com/200/400,TRUE,1,,,,Terrible Product,verified
+Jane Smith,OK quality but not what I was expecting.,26/06/2018 06:52,jane@exmaple.com,,8422445173,https://placekitten.com/200/300,FALSE,2,,,,Just be careful,not-verified
+Christine Riley,"Love this, but too small",02/11/2017 21:52,christine@exmaple.com,,5077130039,https://placekitten.com/250/350,FALSE,4,,,,I'm so upset,verified
+Mary Adkins,Great fit and love the colour!,01/06/2019 09:14,mary@exmaple.com,blue-tshirt,,https://placekitten.com/200/300,TRUE,5,,,,Amazing,verified
+Christine Riley,An average product,20/07/2018 17:51,christine@exmaple.com,,,https://placekitten.com/100/150,TRUE,3,,,PURTS,Average,verified
+Chris Matthews,I wish I could wear this everyday! Perfect! 😁,28/06/2018 10:57,chris222@exmaple.com,purple-tshirt,,https://placekitten.com/500/300,TRUE,5,,,,"So good, never want to take it off",not-verified
+Matt Hicks,Size is great but the colour is not what I was hoping for.,21/07/2019 08:10,matt@exmaple.com,red-shorts,,https://placekitten.com/200/300,TRUE,4,,,,check you colours!,not-verified
+John Gomez,Didn’t fit me well and the quality wasn't very good.,23/02/2019 07:53,…john@example.com,,,https://placekitten.com/200/300,FALSE,2,,,BLUTS,Wrong size,verified
+Jane Smith,What a great birthday present! My Friend loved it!,20/08/2019 11:56,jane.smith@exmaple.com,,,https://placekitten.com/200/300,TRUE,5,,,RESHO,Perfect Gift,not-verified
+Jane Smith,Bought another one!,29/08/2019 11:56,jane.smith@exmaple.com,,,https://placekitten.com/200/300,TRUE,10,,,RESHO,Great again!,not-verified

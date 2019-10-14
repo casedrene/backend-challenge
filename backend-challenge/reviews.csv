@@ -1,0 +1,6 @@
+﻿displayName,reviewBody,createdDate,emailAddress,productHandle,productId,imageUrls,isApproved,rating,reviewReply,replyDateCreated,sku,title,videoUrls,isVerifiedBuyer,variantId,countryCode
+John S.,Terrible product. Do not buy!,26/08/2019 05:52,john@exmaple.com,blue-tshirt,8604833345,https://placekitten.com/200/400,TRUE,1,,,,Terrible Product,,TRUE,,
+Jane S.,OK quality but not what I was expecting.,26/06/2018 06:52,jane@exmaple.com,purple-tshirt,8422445173,https://placekitten.com/200/300,FALSE,2,,,,Just be careful,,FALSE,,
+Christine Riley,"Love this, but too small",02/11/2017 21:52,christine@exmaple.com,red-shorts,5077130039,https://placekitten.com/250/350,FALSE,4,,,,I'm so upset,,TRUE,,
+Mary Adkins,Great fit and love the colour!,01/06/2019 09:14,mary@exmaple.com,blue-tshirt,8604833345,https://placekitten.com/200/300,TRUE,5,,,,Amazing,,TRUE,,
+Christine Riley,An average product,20/07/2018 17:51,christine@exmaple.com,purple-tshirt,5077130039,https://placekitten.com/100/150,TRUE,3,,,PURTS,Average,,TRUE,26497695,

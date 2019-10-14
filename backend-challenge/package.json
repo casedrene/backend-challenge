@@ -1,0 +1,19 @@
+{
+  "name": "importer",
+  "version": "1.0.0",
+  "description": "Build a review importer which accepts multiple different import file types (import-file-1.csv & import-file-2.csv). The files should be processed and mapped to create a new file containing a standardised model of the reviews. The reviews.csv file defines the format of the output file your importer should create. A library for parsing CSV's can be used.",
+  "main": "importer.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node importer"
+  },
+  "author": "Nikola Kucerova",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^2.3.1"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.1"
+  }
+}

@@ -1,0 +1,11 @@
+﻿name,body,dateCreated,email,handle,productId,imageUrls,isApproved,rating,reply,replyDateCreated,sku,title,videoUrls,isVerifiedBuyer,variantId,countryCode
+John Smith,This is such a great product. Definitely recommend!,26/08/2019 05:52,john@exmaple.com,,8604833345,https://placekitten.com/200/300,TRUE,5,,,,Definitely Recommend,,TRUE,,es
+Jane Smith,I‘d definitely buy this again!,26/06/2018 06:52,jane@exmaple.com,,5077130039,https://placekitten.com/200/300,FALSE,5,,,,Absolutely Great!,,TRUE,,au
+Christine Riley,"ok, not a huge fan.",02/11/2017 21:52,christine@exmaple.com,,5077130039,https://placekitten.com/200/300,TRUE,2,,,,OK…,,TRUE,,au
+Mary Adkins,"Lovely deep blue, I love it!",01/06/2019 09:14,mary@exmaple.com,blue-tshirt,,https://placekitten.com/200/300,TRUE,5,Thanks for your great review!,26/06/2019 07:52,,Love this!,,TRUE,,fr
+Chris Matthews,Blue t-shirts are good,28/06/2018 10:57,chris222@exmaple.com,blue-tshirt,,https://placekitten.com/200/300,FALSE,4,,,BLT,Good stuff,,TRUE,,au
+Matt Hicks,Awful!,21/07/2019 08:10,matt@exmaple.com,red-short,,https://placekitten.com/200/300,FALSE,1,,,,Awful,,TRUE,,au
+John Gomez,,23/02/2019 07:53,jn*1@example.com,,,https://placekitten.com/200/300,FALSE,5,,,BLUTS,Great!,,TRUE,,it
+Christine Riley,"Terrible experience, took weeks to arrive and not good quality",20/07/2018 17:51,christine@exmaple.com,,,https://placekitten.com/200/300,TRUE,1,"Sorry you had a bad experience, we've sent you an email to discuss this further",26/08/2018 07:52,PURTS,Not good at all.,,TRUE,,au
+Jane Smith,not very good,20/08/2019 11:56,j@ne.smith@exmaple.com,,,https://placekitten.com/200/300,TRUE,2,,,RESHO,wont shop here again,,FALSE,,au
+Emma Clark,Customer service were very rude.,13/09/2019 12:02,emma@exmaple.com,shirt,,https://placekitten.com/200/300,TRUE,1,,,BLUTS,not very nice,,TRUE,,au
